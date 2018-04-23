@@ -1,0 +1,21 @@
+﻿table.main td
+{
+	vertical-align: top;
+}
+.uploadControlCell
+{
+	width: 230px;
+}
+.btnUploadCell
+{
+	padding-top: 1px;
+}
+.progressTable
+{
+	padding-top: 1px;
+}
+.progressBarCell
+{
+	padding-left: 3px;
+	padding-right: 6px;
+}
