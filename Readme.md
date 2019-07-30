@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to use an external ASPxProgressBar control with an ASPxUploadControl
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1252)**
+**[[Run Online]](https://codecentral.devexpress.com/e1252/)**
 <!-- run online end -->
 
 
